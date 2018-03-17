@@ -1,0 +1,58 @@
+.login {
+    display:grid;
+    grid-template-columns: 35vw 30vw 35vw;
+    grid-template-rows: 20vh 50vh 30vh;
+    background-color: #556B2F;
+  }
+  
+  .loginForm {
+    border-width: 0px;
+    height: 100%;
+    width: 100%;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    background-color: rgb(255,255,255);
+  }
+  
+  .userlogin {
+    background-color: rgba(230, 230, 230, 0.5);
+    width: 62%;
+    border-width: 0px;
+    position: relative;
+    padding-top:10px;
+    padding-bottom: 10px;
+    margin-top: 50px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    margin-left: 60px;
+  }
+  
+  .userpassword {
+    width: 62%;
+    border-width: 0px;
+    background-color: rgba(230, 230, 230, 0.5);
+    
+    position: relative;
+    padding-top:10px;
+    padding-bottom: 10px;
+    margin-right: 30px;
+    margin-bottom: 40px;
+    margin-left: 60px;
+  }
+  
+  .login_button {
+    border-width: 0px;
+    width: 62%;
+    background-color: #6B8E23;
+    position: relative;
+    padding-top:10px;
+    padding-bottom: 10px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    margin-left: 60px;
+    color: white;
+  }
+
+  .login4 {
+    color: rgba(150, 150, 150, 0.5);
+    text-align: center;
+  }
